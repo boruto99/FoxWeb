@@ -5,3 +5,7 @@ nav_items:
     path: /products/
   - label: Artikel Berfaedah
     path: /news
+  - label: Tentang Kami
+  - label: Kebijakan Media Siber
+  - label: Kontk Kami
+  - label: Peta Situs
