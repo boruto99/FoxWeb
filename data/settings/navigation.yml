@@ -1,7 +1,7 @@
 nav_items:
-  - label: Gerbang Masuk
+  - label: Teras Fox
     path: /
-  - label: Jualan
+  - label: Website dijual
     path: /products/
-  - label: Blog
+  - label: Artikel Berfaedah
     path: /news
