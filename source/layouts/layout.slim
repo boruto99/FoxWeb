@@ -15,3 +15,7 @@ html
     = partial 'partials/shared/footer'
 
     = javascript_include_tag 'main', async: true
+    
+    <b:if cond='data:view.isSingleItem'>
+<div class='fb-comments' data-numposts='5' expr:data-href='data:blog.canonicalUrl' data-width='100%'></div>
+</b:if>
